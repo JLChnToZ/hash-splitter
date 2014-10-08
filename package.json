@@ -1,0 +1,30 @@
+{
+  "name": "hash-splitter",
+  "version": "0.0.0",
+  "description": "A simple function that splits any hex string into array of integer values you want.",
+  "main": "lib/splitter.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JLChnToZ/hash-splitter.git"
+  },
+  "keywords": [
+    "Hex",
+    "Hash",
+    "Split",
+    "Array"
+  ],
+  "author": "Jeremy Lam <jlchntoz@hkcdc.org> (http://gh.jlctz.tk/)",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/JLChnToZ/hash-splitter/issues"
+  },
+  "devDependencies": {
+    "nodeunit": "*",
+    "docco": "*",
+    "coffee-script": ">= 1.3"
+  },
+  "homepage": "https://github.com/JLChnToZ/hash-splitter"
+}
