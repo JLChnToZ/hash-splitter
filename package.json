@@ -1,6 +1,6 @@
 {
   "name": "hash-splitter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple function that splits any hex string into array of integer values you want.",
   "main": "lib/splitter.js",
   "scripts": {
